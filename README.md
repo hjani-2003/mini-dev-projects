@@ -1,4 +1,4 @@
-## ** Mini Development Projects **
+## **Mini Development Projects**
 
 This repository contains a collection of small web development projects that I created while learning different web technologies.
 
@@ -7,7 +7,7 @@ Each project focuses on a specific concept or tool to strengthen my understandin
 P.S.: The content will be updated as I learn new things! ;p
 
 
-### ** Tech Stack **
+### **Tech Stack**
 
 These projects cover a wide range of technologies including:
 - Frontend: HTML, CSS, JavaScript
@@ -16,19 +16,19 @@ These projects cover a wide range of technologies including:
 - Utilities & Libraries: mysql2, ejs, faker-js, method-override and more
 
 
-## ** Project Structure **
+## **Project Structure**
 
 Each folder in this repository represents a standalone project.
 
 
-## ** Purpose **
+## **Purpose**
 
 This repo serves as:
 - A personal learning record of my journey in full-stack web development.
 - A hands-on reference for fundamental web development concepts.
 
 
-## ** Feedback **
+## **Feedback**
 
 Suggestions and improvements are always welcome!
 If you spot something interesting or have ideas to improve, feel free to open a pull request or issue.
